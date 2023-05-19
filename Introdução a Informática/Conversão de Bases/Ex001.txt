@@ -1,0 +1,75 @@
+A) 26 ^ 10 para binario
+
+26 / 2 > 0 | 13
+13 / 2 > 1 | 6
+6 / 2 > 0 | 3
+3 / 2 > 1 | 1
+1 / 2 > 1
+
+resultado: 11010
+
+B) 694 ^ 10 para binario.
+
+694 / 2 > 0 | 347
+347 / 2 > 1 | 173
+173 / 2 > 1 | 86
+86 / 2 > 0 | 43
+43 / 2 > 1 | 21
+21 / 2 > 1 | 10
+10 / 2 > 0 | 5
+5 / 2 > 1 | 2
+2 / 2 > 0 | 1
+1 / 2 > 1
+
+resultado 1010110110
+
+C) 783 ^ 10 para octal
+
+783 / 8 > 7 | 97
+97 / 8 > 1 | 12
+12 / 8 > 4 | quociente 1
+
+resultado 1417
+
+D) 3964 ^ 10 para octal
+
+3964 / 8 > 4 | 495
+495/ 8 > 7 | 61
+61 / 8 > 5 | quociente 7 
+
+resultado 7574
+
+E) 410 ^ 10 para haxedecimal
+
+410 / 16 > A | 25
+25 / 16 > 9 | quociente 1
+
+resultado 19A
+
+F) 2754 ^ 10 para hexadecimal
+
+2754 / 16 > 2 | 172
+172 / 16 > C | A quociente
+
+resultado AC2
+
+G) 1100110 ^ 2 para decimal
+
+(1x2^6) + (1x2^5) + (0x2^4) + (0x2^3) + (1x2^2) + (1x2^1) + (0x2^0)
+64 + 32 + 0 + 0 + 4 + 2 + 0
+
+resultado 102^10
+
+H) 27 ^ 8 para decimal
+
+(2x8^1) + (7x8^0)
+16 + 7
+
+resultado 23 ^ 10
+
+I) 2E7A ^ 16 para decimal
+
+(2x16^3) + (14x16^2) + (7x16^1) + (10x16^0)
+8192 + 3584 + 112 + 10
+
+resultado 11898 ^ 10
